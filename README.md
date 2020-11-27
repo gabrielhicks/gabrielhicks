@@ -5,18 +5,18 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhicks&layout=compact)
 
 - 🔭 I’m currently working on ...
-# A programmer oriented forum with real-time chat 
+A programmer oriented forum with real-time chat 
 - 🌱 I’m currently learning ...
-# Learning system design principles, data structures and algorithms, and how/when to best use Redux/toolkit
+Learning system design principles, data structures and algorithms, and how/when to best use Redux/toolkit
 - 👯 I’m looking to collaborate on ...
-# Anything React/Angular/Vue related!
+Anything React/Angular/Vue related!
 - 🤔 I’m looking for help with ...
-# Deeper understanding of computer science principles and use cases/reasoning for the latest and greatest tools.
+Deeper understanding of computer science principles and use cases/reasoning for the latest and greatest tools.
 - 💬 Ask me about ...
-# styled-components
+styled-components
 - 📫 How to reach me: ...
-# gabrielhicks@mail.com
+gabrielhicks@mail.com
 - 😄 Pronouns: ...
-# he/him
+he/him
 - ⚡ Fun fact: ...
-# The first line of code I wrote was Java at age 11 for a RuneScape Classic bot script.
+The first line of code I wrote was Java at age 11 for a RuneScape Classic bot script.
