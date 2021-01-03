@@ -6,4 +6,4 @@
  A full stack JavaScript application using Node/Express/Sequalize/PostgreSQL/React
 
 - 🌱 I’m currently learning ...
- JavaScript testing with Jest and React Testing Library
+ JavaScript testing for Node and React with Jest and React Testing Library
