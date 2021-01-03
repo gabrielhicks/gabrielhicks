@@ -3,7 +3,7 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhicks&langs_count=4&layout=compact)
 
 - 🔭 I’m currently working on ...
-## A full stack JavaScript application using Node/Express/Sequalize/PostgreSQL/React
+ A full stack JavaScript application using Node/Express/Sequalize/PostgreSQL/React
 
 - 🌱 I’m currently learning ...
-## JavaScript testing with Jest and React Testing Library
+ JavaScript testing with Jest and React Testing Library
