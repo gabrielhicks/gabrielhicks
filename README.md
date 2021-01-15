@@ -2,8 +2,9 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhicks&langs_count=4&layout=compact)
 
-- 🔭 I’m currently working on ...
- A full stack JavaScript application using Node/Express/Sequalize/PostgreSQL/React. Also working on a React Nativr app for a mental health startup.
+## 🔭 I’m currently working on ...
+- A full stack JavaScript application using Node/Express/Sequalize/PostgreSQL/React. 
+- Using my React knowledge and translating it into creating reusable React Native components while interning for a mental health startup to reach MVP.
 
-- 🌱 I’m currently learning ...
- JavaScript testing for Node and React with Jest and React Testing Library as well as working through the public EpicReact courses by Kent C Dodds.
+## 🌱 I’m currently learning ...
+- JavaScript testing for Node and React with Jest and React Testing Library as well as working through the public EpicReact courses by Kent C Dodds.
