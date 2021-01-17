@@ -4,7 +4,7 @@
 
 ## 🔭 I’m currently working on ...
 - A full stack JavaScript application using Node/Express/Sequalize/PostgreSQL/React. 
-- Using my React knowledge and translating it into creating reusable React Native components while interning for a mental health startup to reach MVP.
+- Using React to develop a web application and creating reusable React Native components as an intern for a mental health startup.
 
 ## 🌱 I’m currently learning ...
 - JavaScript testing for Node and React with Jest and React Testing Library as well as working through the public EpicReact courses by Kent C Dodds.
