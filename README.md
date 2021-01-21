@@ -1,4 +1,4 @@
-[![Gabriel's GitHub Banner](./assets/header.png)](https://gabrielhicks.dev)
+[![Gabriel's GitHub Banner](./header.png)](https://gabrielhicks.dev)
 
 [![Visits Badge](https://badges.pufler.dev/visits/gabrielhicks/gabrielhicks)](https:gabrielhicks.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/gabrielhicksdev)
