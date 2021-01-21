@@ -42,7 +42,7 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&color=00CCBB)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&logoColor=00CCBB&color=00CCBB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=000000)
 ![](https://img.shields.io/badge/Code-Expo-informational?style=flat&logo=Expo&color=000020)
