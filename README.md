@@ -1,6 +1,6 @@
 [![Gabriel's GitHub Banner](./header.png)](https://gabrielhicks.dev)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielhicks.gabrielhicks)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielhicks.gabrielhicks)](https://gabrielhicks.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&color=1CA2F1)](https://twitter.com/gabrielhicksdev)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/gabrieljhicks/)
 
@@ -91,4 +91,4 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 - JavaScript testing for Node and React with Jest and React Testing Library as well as working through the public EpicReact courses by Kent C Dodds.
 
 
-[//]: # (![Visitors](https://badges.pufler.dev/visits/gabrielhicks/gabrielhicks))
+<!--- [![Visitors](https://badges.pufler.dev/visits/gabrielhicks/gabrielhicks)](https://gabrielhicks.dev) --->
