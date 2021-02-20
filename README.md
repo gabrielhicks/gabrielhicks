@@ -12,6 +12,7 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 
 <br>
 
+- [Have you been a victim of blog scraping?](https://medium.com/swlh/have-you-been-a-victim-of-blog-scraping-7545e4c8bf96?sk=80a5390f1d179d2a3b3a77e0d79e6afa)
 - [Chasing Dreams During a Pandemic](https://dev.to/gabrielhicksdev/chasing-dreams-during-a-pandemic-19i4)
 - [Networking After Coding Bootcamp](https://dev.to/gabrielhicksdev/networking-after-coding-bootcamp-43de)
 - [Start Testing Your React Applications](https://dev.to/gabrielhicksdev/start-testing-your-react-applications-2g42)
