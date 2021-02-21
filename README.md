@@ -88,7 +88,6 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 - A full stack JavaScript application using Node/Express/Sequalize/PostgreSQL/React. 
 - Using React to develop a web application and creating reusable React Native components as an intern for a mental health startup.
 - Using React Native and TypeScript to help develop features on a healthcare application as an intern/co-op for a startup.
-- Cleaning up my GitHub repositories to be more reflective of my project work and current technology practice projects.
 
 ## 🌱 I’m currently learning
 - JavaScript testing for Node and React with Jest and React Testing Library as well as working through the public EpicReact courses by Kent C Dodds.
