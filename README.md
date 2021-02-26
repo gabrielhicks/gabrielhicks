@@ -85,12 +85,13 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 <br>
 
 ## 🔭 I’m currently working on
-- A full stack JavaScript application using Node/Express/Sequalize/PostgreSQL/React. 
-- Using React to develop a web application and creating reusable React Native components as an intern for a mental health startup.
-- Using React Native and TypeScript to help develop features on a healthcare application as an intern/co-op for a startup.
+- A contracted B2B e-commerce platform using AWS Amplify, React, and Chakra-UI to service over 400 stores and their distributors. 
+- Using React/Next.js to develop a web application as well as React/Capacitor.js for a mobile application as an intern for a mental health startup called Whimser.
+- Using React Native and TypeScript to help develop features on a healthcare application as an intern/co-op for a separate startup.
 
 ## 🌱 I’m currently learning
-- JavaScript testing for Node and React with Jest and React Testing Library as well as working through the public EpicReact courses by Kent C Dodds.
+- EpicReact by Kent C Dodds.
+- Practicing Cypress for E2E testing alongside Jest and React Testing Library for unit and integration tests.
 
 
 <!--- [![Visitors](https://badges.pufler.dev/visits/gabrielhicks/gabrielhicks)](https://gabrielhicks.dev) --->
