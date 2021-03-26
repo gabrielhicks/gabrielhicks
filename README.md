@@ -46,6 +46,8 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=React&logoColor=00CCBB&color=00CCBB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=Next.js&color=000000)
+![](https://img.shields.io/badge/Code-Capacitor.js-informational?style=flat&logo=Capacitor&color=119EFF)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)
 ![](https://img.shields.io/badge/Code-Expo-informational?style=flat&logo=Expo&color=000020)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
@@ -57,6 +59,7 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 
 <br>
 
+![](https://img.shields.io/badge/Style-Ionic-informational?style=flat&logo=Ionic&color=3880FF)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-Material--UI-informational?style=flat&logo=Material-UI&color=0081CB)
