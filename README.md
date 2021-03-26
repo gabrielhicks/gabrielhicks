@@ -74,6 +74,7 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 
 <br>
 
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=Yarn&color=2C8EBB)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&color=FF6C37)
