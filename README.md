@@ -59,6 +59,7 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 
 <br>
 
+![](https://img.shields.io/badge/Style-Chakra--UI-informational?style=flat&logo=Chakra-UI&color=319795)
 ![](https://img.shields.io/badge/Style-Ionic-informational?style=flat&logo=Ionic&color=3880FF)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
