@@ -97,6 +97,3 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 ## 🌱 I’m currently learning
 - EpicReact by Kent C Dodds.
 - Practicing Cypress for E2E testing alongside Jest and React Testing Library for unit and integration tests.
-[![Visitors](https://badges.pufler.dev/visits/gabrielhicks/gabrielhicks)](https://gabrielhicks.dev)
-
-<!--- [![Visitors](https://badges.pufler.dev/visits/gabrielhicks/gabrielhicks)](https://gabrielhicks.dev) --->
