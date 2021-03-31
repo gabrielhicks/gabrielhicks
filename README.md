@@ -34,7 +34,7 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 </a>
 
 <a href="https://github.com/gabrielhicks">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhicks&langs_count=5&layout=compact&theme=vue" alt="Gabriel's Top Languages" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhicks&langs_count=4&layout=compact&theme=vue" alt="Gabriel's Top Languages" />
 </a>
 
 <br>
