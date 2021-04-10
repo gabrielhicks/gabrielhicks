@@ -12,6 +12,7 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 
 <br>
 
+- [Processes, Threads, Deadlock, Semaphores, and More](https://medium.com/geekculture/processes-threads-deadlock-semaphores-and-more-f70be5395ef6?sk=2ff3c66c4ce4004d1f3d74e01112df40)
 - [Have you been a victim of blog scraping?](https://medium.com/swlh/have-you-been-a-victim-of-blog-scraping-7545e4c8bf96?sk=80a5390f1d179d2a3b3a77e0d79e6afa)
 - [Chasing Dreams During a Pandemic](https://dev.to/gabrielhicksdev/chasing-dreams-during-a-pandemic-19i4)
 - [Networking After Coding Bootcamp](https://dev.to/gabrielhicksdev/networking-after-coding-bootcamp-43de)
