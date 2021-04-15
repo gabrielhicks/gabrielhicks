@@ -4,7 +4,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/gabrieljhicks/)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gabrielhicks.gabrielhicks)](https://gabrielhicks.dev)
 
-My name is Gabriel, I am an engineer who is interested in learning new technologies and meeting new people.
+My name is Gabriel, I'm an engineer who is interested in learning new technologies and meeting new people.
 
 If you are interested in some of my work, you can find it [here](https://gabrielhicks.dev/)
 
