@@ -91,9 +91,13 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 <br>
 
 ## 🔭 I’m currently working on
-- A contracted B2B e-commerce platform using AWS Amplify, React, and Chakra-UI to service over 400 stores and their distributors. 
-- Using React/Next.js to develop a web application as well as React/Capacitor.js for a mobile application as an intern for a mental health startup called Whimser.
+- Gaining certifications in DevOps / Cloud technologies through RedHat
 
 ## 🌱 I’m currently learning
+- OpenShift
+- Kubernetes
+- Docker
+- Helm
+- Tekton
 - TypeScript
-- Testing
+- Testing-Library
