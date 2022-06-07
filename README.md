@@ -101,3 +101,4 @@ If you are interested in some of my work, you can find it [here](https://gabriel
 - Tekton
 - TypeScript
 - Testing-Library
+- Rust
